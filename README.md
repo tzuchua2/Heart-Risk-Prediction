@@ -4,7 +4,7 @@ This project aims to predict the risk of heart disease (binary classification) u
 
 ## Dataset
 
-The dataset contains 15 predictor variables, which can be categorized as variables that inform whether or not a symptom has occurred and variables about the patient's risk factors. Only the 'Age' variable is continuous and all others are binary. The target variable we are predicting is 'High Risk', which informs whether or not a patient should be classified as high heart risk. 
+The dataset contains 15 predictor variables, which can be categorized as variables that inform whether or not a symptom has occurred and variables about the patient's risk factors. Only the 'Age' variable is continuous and all others are binary. The target variable we are predicting is 'High Risk', which informs whether or not a patient should be classified as high heart risk. The dataset contains 7000 rows and was generated using NumPy and Pandas, aiming to create an absolute balance between classes.
 
 ## Training
 
