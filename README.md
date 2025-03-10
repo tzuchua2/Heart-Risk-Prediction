@@ -4,11 +4,11 @@ This project aims to predict the risk of heart disease (binary classification) u
 
 ## Dataset
 
-The dataset contains 15 predictor variables, which can be categorized as variables that inform whether or not a symptom has occurred and variables about the patient's risk factors. Only the 'Age' variable is continuous and all others are binary. 
+The dataset contains 15 predictor variables, which can be categorized as variables that inform whether or not a symptom has occurred and variables about the patient's risk factors. Only the 'Age' variable is continuous and all others are binary. The target variable we are predicting is 'High Risk', which informs whether or not a patient should be classified as high heart risk. 
 
 ## Training
 
-During training, there are two training sets. One for scaled age, specifically used for the two baseline models and the neural network. 
+During training, there are two training sets. One for scaled 'Age', specifically used for the two baseline models and the neural network. 
 
 ## Metrics
 
